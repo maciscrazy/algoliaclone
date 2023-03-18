@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/algoliaclone/static/css/main.a510d940.css",
+    "main.js": "/algoliaclone/static/js/main.429f1217.js",
+    "static/media/banner-image.avif": "/algoliaclone/static/media/banner-image.49c561ce2e54ce38ce62.avif",
+    "static/media/slideimage1.png": "/algoliaclone/static/media/slideimage1.cec7575316d849c17e17.png",
+    "static/media/algoliamain.avif": "/algoliaclone/static/media/algoliamain.949f3827332ba2f00b4c.avif",
+    "static/media/algoliamain.png": "/algoliaclone/static/media/algoliamain.08ce13293addccb6fab4.png",
+    "static/media/harry.webp": "/algoliaclone/static/media/harry.a2da096ee2bf2664b8ec.webp",
+    "static/media/gymshark.svg": "/algoliaclone/static/media/gymshark.3a8f25a543a464636d755a7ade278853.svg",
+    "static/media/mercari.svg": "/algoliaclone/static/media/mercari.92e425cbea232ddf8d79b84858618342.svg",
+    "index.html": "/algoliaclone/index.html",
+    "main.a510d940.css.map": "/algoliaclone/static/css/main.a510d940.css.map",
+    "main.429f1217.js.map": "/algoliaclone/static/js/main.429f1217.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a510d940.css",
+    "static/js/main.429f1217.js"
+  ]
+}
